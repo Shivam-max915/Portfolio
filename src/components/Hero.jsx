@@ -9,7 +9,7 @@ const Hero = () => {
               Shivam Somnath <span className="text-gradient">Waghe</span>
             </h1>
             <h2 className="text-xl sm:text-2xl text-gray-400 mb-8">
-              Web Developer | Diploma Student
+              Web Developer | Computer Science
             </h2>
             <p className="text-gray-400 text-lg mb-10 max-w-xl mx-auto lg:mx-0">
               Passionate web developer crafting modern, responsive websites and web applications. Currently pursuing a Diploma in Computer Science and gaining hands-on industry experience as a Web Developer Intern.
